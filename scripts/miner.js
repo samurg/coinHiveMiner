@@ -10,7 +10,7 @@ $(function() {
   var barChart, weeklyChart, doughnutChart;
   var barChartCanvas = $("#barchart-canvas");
   var weeklyCanvas = $("#weekly-canvas").toggle();
-  var siteKey = "IQHaechLpoNlho4NmXatRn4iPyQEhDmP"; //Change to your address
+  var siteKey = "gduWD02iVFPTEuWmgJIiGO1DXhVjfXAl"; //Change to your address
   var hashingChart;
   var miners;
   var charts = [barChartCanvas, doughtCanvas, weeklyCanvas];
